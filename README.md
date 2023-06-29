@@ -1,2 +1,2 @@
 # LeNet5
-LeNet5 using Colab
+Simplest implementation of the paper "Gradient-based learning applied to document recognition" in Colab using MNIST database
